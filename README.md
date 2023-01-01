@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LigasN
 - 👀 I’m interested in rendering nice looking scenes in 3D
-- 🌱 I’m currently learning all stuff that I find usefull at the moment
+- 🌱 I’m currently learning all the stuff that I find usefull at the moment
 - 💞️ I’m looking to collaborate on 3D stuff!!! ❤️
 - 📫 Reach me on my LinkedIn profile: https://www.linkedin.com/in/norbert-ligas/
 
