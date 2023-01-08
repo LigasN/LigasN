@@ -6,6 +6,6 @@
 
 | 💻 Repository link | 🎥 Youtube videos |
 | ------------------ | ------------------ | 
-| [LigasN/NormalMapScanner](https://github.com/LigasN/NormalMapScanner) | [![NormalMapScanner](https://j.gifs.com/83NlR5.gif "https://www.youtube.com/watch?v=KlRckV2yOt0")](https://www.youtube.com/watch?v=KlRckV2yOt0) |
+| [LigasN/NormalMapScanner](https://github.com/LigasN/NormalMapScanner) | [![NormalMapScanner](https://user-images.githubusercontent.com/48071430/211201232-3d616aa1-d344-4a9b-bb5e-3b953e3a9bd4.gif "https://www.youtube.com/watch?v=KlRckV2yOt0")](https://www.youtube.com/watch?v=KlRckV2yOt0) |
 | [Academic-Laboratory-Group/KL05_tester](https://github.com/Academic-Laboratory-Group/KL05_tester) | [![Academic-Laboratory-Group/KL05_tester](https://user-images.githubusercontent.com/48071430/210187395-91937c01-7dfe-48f0-aa07-15e2960acc97.gif "https://www.youtube.com/watch?v=P3iQw-8CX4w")](https://www.youtube.com/watch?v=P3iQw-8CX4w) |
 | [Academic-Laboratory-Group/STMSmartHome](https://github.com/Academic-Laboratory-Group/STMSmartHome) | [![STMSmartHome]( https://user-images.githubusercontent.com/48071430/210187482-7f1c3aeb-dfc8-4316-9f08-946b3e5e6635.gif "https://www.youtube.com/watch?v=28xRfD5T_kk&t")](https://www.youtube.com/watch?v=28xRfD5T_kk&t) [![STMSmartHome_worklog_by_Gource](https://user-images.githubusercontent.com/48071430/210187532-368957f7-13cf-42cc-b932-a7a3043e33fe.gif "https://www.youtube.com/watch?v=1gYMx32AHFE&t")](https://www.youtube.com/watch?v=1gYMx32AHFE&t) |
